@@ -1,0 +1,42 @@
+[
+    {
+        "file_url": "prashant-more-datascience/E-COMMERCE_STORE/refs/heads/main/olist_customers_dataset.csv",
+        "file_folder": "customers_data",
+        "file_name": "customers_dataset"
+    },
+    {
+        "file_url": "prashant-more-datascience/E-COMMERCE_STORE/refs/heads/main/olist_order_items_dataset.csv",
+        "file_folder": "order_items",
+        "file_name": "order_items_dataset"
+    },
+    {
+        "file_url": "prashant-more-datascience/E-COMMERCE_STORE/refs/heads/main/olist_order_payments_dataset.csv.csv",
+        "file_folder": "payments_data",
+        "file_name": "payments_dataset"
+    },
+    {
+        "file_url": "prashant-more-datascience/E-COMMERCE_STORE/refs/heads/main/olist_order_reviews_dataset.csv",
+        "file_folder": "order_reviews_data",
+        "file_name": "order_reviews_dataset"
+    },
+    {
+        "file_url": "prashant-more-datascience/E-COMMERCE_STORE/refs/heads/main/olist_orders_dataset.csv",
+        "file_folder": "orders_data",
+        "file_name": "orders_dataset"
+    },
+    {
+        "file_url": "prashant-more-datascience/E-COMMERCE_STORE/refs/heads/main/olist_products_dataset.csv",
+        "file_folder": "products_data",
+        "file_name": "products_dataset"
+    },
+    {
+        "file_url": "prashant-more-datascience/E-COMMERCE_STORE/refs/heads/main/olist_sellers_dataset.csv",
+        "file_folder": "sellers_data",
+        "file_name": "sellers_dataset"
+    },
+    {
+        "file_url": "prashant-more-datascience/E-COMMERCE_STORE/refs/heads/main/product_category_name_translation.csv",
+        "file_folder": "product_category_name_translation",
+        "file_name": "product_category_name_translation_dataset"
+    }
+]
