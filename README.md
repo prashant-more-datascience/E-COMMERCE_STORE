@@ -56,13 +56,15 @@ The Olist dataset is relational — orders sit at the center, linking customers,
 olist-ecommerce-data-pipeline/
 ├── README.md
 ├── ARCHITECTURE_DIAGRAM.png
-├── ARCHITECTURE_DIAGRAM.png
-├── adf/
-│   └── pipeline_copy_olist_bronze.json
-├── databricks/
-│   └── 01_bronze_to_silver_transformation.py
-├── synapse/
-│   └── 01_bronze_to_silver_transformation.py
+├── ER_DIAGRAM.png
+├── AZURE_DATA_FACTORY/
+│   └── e-commerce-project-pipeline.json
+├── DATABRICKS/
+│   └── ECOMMERCE_SILVER_LAYER_NOTEBOOK.py
+├── SYNAPSE/
+│   └── CREATE EXTERNAL TABLES.sql
+    └── CREATE VIEW FOR EACH TABLE.sql
+    └── SET UP EXTERNAL DATA SOURCE.sql
 ```
  
 ## Data Source
@@ -78,4 +80,4 @@ olist-ecommerce-data-pipeline/
 ## Author
  
 **Prashant More**
-Data Analyst / BI Analyst | [LinkedIn](#) · [GitHub](#)
+Data Engineer / Data Analyst  | [LinkedIn](#) · [GitHub](#)
